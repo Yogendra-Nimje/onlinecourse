@@ -25,8 +25,12 @@ Manage Department
 
 Student Side interface :-
 ![Screenshot 2024-10-15 091402](https://github.com/user-attachments/assets/84b6d407-7fce-4069-a80b-621ea74d6312)
+
 ![Screenshot 2024-10-15 091320](https://github.com/user-attachments/assets/aeda11e7-7328-4fe2-b57c-d51c1a938a06)
+
 ![Screenshot 2024-10-15 091229](https://github.com/user-attachments/assets/35c6d793-0b56-4843-adaf-ad5f048431c9)
+
 Change Password Student :
+
 ![Screenshot 2024-10-15 091147](https://github.com/user-attachments/assets/a81ae633-8c7d-4d88-a6cd-f6ab374e6a3d)
 
